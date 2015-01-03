@@ -1,0 +1,1 @@
+05 00 * * * ~/bin/dropbox_uploader.sh upload ~/.vim/backup /backup/vim 2>&1 >> /var/log/backup.log
